@@ -18,3 +18,6 @@ Founded in 2013, Bellabeat has grown rapidly and quickly positioned itself as a 
 **Spring**: a water bottle that tracks daily water intake using smart technology
 
 **Bellabeat membership**: the membership gives users 24/7 access to fully personalized guidance on nutrition, activity, sleep, health, and beauty, and mindfulness based on their lifestyle and goals.
+
+
+NB: Since I still have a problem to connect my github with the Rstudio platform, please check [this link](https://rpubs.com/sittikhdjh/capstone-project) to see the works. 
